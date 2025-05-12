@@ -18,7 +18,7 @@ This repository contains a Power BI project that visualizes and analyzes custome
 
 - [Microsoft Power BI](https://powerbi.microsoft.com/)
 ---
-
+# Source of data: Kaggle
 ## 📝 Usage
 
 1. Clone the repository or download the `.pbix` file.
